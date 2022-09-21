@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\bin\Debug\net6.0\Seminar01_HomeWork08.exe
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\bin\Debug\net6.0\Seminar01_HomeWork08.deps.json
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\bin\Debug\net6.0\Seminar01_HomeWork08.runtimeconfig.json
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\bin\Debug\net6.0\Seminar01_HomeWork08.dll
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\bin\Debug\net6.0\Seminar01_HomeWork08.pdb
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\obj\Debug\net6.0\Seminar01_HomeWork08.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\obj\Debug\net6.0\Seminar01_HomeWork08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\obj\Debug\net6.0\Seminar01_HomeWork08.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\obj\Debug\net6.0\Seminar01_HomeWork08.AssemblyInfo.cs
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\obj\Debug\net6.0\Seminar01_HomeWork08.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\obj\Debug\net6.0\Seminar01_HomeWork08.dll
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\obj\Debug\net6.0\refint\Seminar01_HomeWork08.dll
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\obj\Debug\net6.0\Seminar01_HomeWork08.pdb
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\obj\Debug\net6.0\Seminar01_HomeWork08.genruntimeconfig.cache
+C:\Users\andre\Desktop\Обучение\1 четверть\Языки программирования\С#\Leson_1_\Seminar01_HomeWork08\obj\Debug\net6.0\ref\Seminar01_HomeWork08.dll
